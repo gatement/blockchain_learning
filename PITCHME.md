@@ -1,8 +1,8 @@
 @title[Introduction]
 
-# <span class="gold">区块链</span>技术简介
+# <span class="gold">aaa</span>区块链技术简介
 
-#### 比特币
+#### 比特币技术原理
 <br>
 <br>
 <span class="byline">[ Johnson Lau ]</span>
